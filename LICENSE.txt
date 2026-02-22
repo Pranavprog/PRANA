@@ -1,0 +1,12 @@
+Proprietary License
+
+Copyright (c) 2026 Pranav Kumar. All rights reserved.
+
+This software and its source code are the intellectual property of Pranav Kumar.
+
+No part of this repository may be used, copied, modified, merged, distributed, sublicensed, reverse-engineered, or reproduced in any form without explicit prior written permission from the author.
+
+Unauthorized use of this code is strictly prohibited.
+
+For licensing or usage permissions, contact:
+pranavkumar9535@gmail.com
