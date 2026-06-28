@@ -7,13 +7,10 @@ It further classifies normal breathing into deep or slow breathing, and provides
 
 🚀 Features
 
-🎙️ Captures breathing audio using microphone input
-
-📊 Signal-processing–based analysis (no black-box ML)
-
-🧠 Uses core DSA concepts for real-time processing
-
-✅ Classifies breathing as:
+- Captures breathing audio using microphone input
+- Signal-processing–based analysis (no black-box ML)
+-Uses core DSA concepts for real-time processing
+- Classifies breathing as:
 
 Normal → Deep / Slow
 
